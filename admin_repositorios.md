@@ -1,6 +1,7 @@
 #Añadir y administrar repositorios en Linux
+
 Un repositorio es una listado de paquetes oficiales para una distribucion.
-Para distribuciones basadas en Debian como Ubuntu server el listado de repositorios se encuentra en:_/etc/apt/source.list
+Para distribuciones basadas en Debian como Ubuntu server el listado de repositorios se encuentra en:*/etc/apt/source.list*.
 
 #Añadiendo el repo de Mongodb
 ##Agregando la llave publica
