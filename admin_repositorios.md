@@ -1,10 +1,10 @@
-#Añadir y administrar repositorios en Linux
+#Añadir y administrar repositorios en Linux#
 
 Un repositorio es una listado de paquetes oficiales para una distribucion.
 Para distribuciones basadas en Debian como Ubuntu server el listado de repositorios se encuentra en:*/etc/apt/source.list*.
 
-#Añadiendo el repo de Mongodb
-##Agregando la llave publica
+#Añadiendo el repo de Mongodb#
+##Agregando la llave publica##
 APT posee una herramienta llamada apt-key que nos ayuda a manejar con facilidad las llaves de seguridad de nuestros repositorios. vamos a agregar la llaver para Ubuntu 16.04:
 
 '''
